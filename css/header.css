@@ -21,13 +21,13 @@
   float:right;
 }
 
-.clear {
-  clear:both;
-}
-
 .header-logo {
   height:40px;
   margin-top:8px;
+}
+
+.clear {
+  clear:both;
 }
 
 .header-right a {
